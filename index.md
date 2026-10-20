@@ -1,17 +1,14 @@
-# Privacy Policy — [GAME NAME]
+# Privacy Policy — Emoji Match Party
 
-**[STUDIO NAME]** · Last updated: 2026-10-19
+**Jeemba Studio** · Last updated: 2026-10-19
 
-> Fill in before publishing: [GAME NAME], [STUDIO NAME], [SUPPORT EMAIL],
-> [POLICY URL]. This is a starting template, not legal advice.
-
-[GAME NAME] is made by [STUDIO NAME], a one-person indie studio.
+Emoji Match Party is made by Jeemba Studio, a one-person indie studio.
 This policy explains what the game — and its advertising provider —
 do with your data.
 
 ## Data we collect
 
-[GAME NAME] itself collects **no personal information**. No accounts,
+Emoji Match Party itself collects **no personal information**. No accounts,
 no analytics, no tracking of your behavior by us.
 
 The game shows ads via **Google AdMob**. AdMob's SDK automatically
@@ -42,10 +39,10 @@ removes it.
 
 ## Children
 
-[GAME NAME] is a general-audience game and is not directed at children
+Emoji Match Party is a general-audience game and is not directed at children
 under 13. We do not knowingly collect personal information from children.
 If you are a parent or guardian and believe your child has provided
-personal information through the game, contact us at [SUPPORT EMAIL].
+personal information through the game, contact us at leopapilaya@gmail.com.
 
 ## Changes to this policy
 
@@ -54,19 +51,4 @@ If this policy changes, the updated version will be posted at
 
 ## Contact
 
-Questions about this policy: [SUPPORT EMAIL]
-
----
-
-## Publishing checklist (do before Play Store submission)
-
-- [ ] Fill in: game name, studio name, support email, policy URL, date
-- [ ] Host this policy at a stable public URL (studio site, itch.io page,
-      or GitHub Pages) — Play Console requires the link
-- [ ] Paste the URL into Play Console → Store listing → Privacy Policy
-- [ ] Fill in Play Console's **Data safety** section to match this policy:
-      declare "Device or other IDs" (Advertising ID) collected by AdMob,
-      purpose: Advertising; data is collected (not optional), not shared
-      beyond Google's ad services
-- [ ] If you later add analytics or other SDKs: update "Data we collect"
-      and "Third-party services" to match, and update Data safety too
+Questions about this policy: leopapilaya@gmail.com
